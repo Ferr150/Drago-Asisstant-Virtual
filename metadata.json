@@ -1,0 +1,7 @@
+{
+  "name": "Drago Virtual Assistant",
+  "description": "A 'very intelligent' virtual assistant for your PC, powered by Gemini. Drago can understand voice commands to simulate controlling your computer, opening applications, and managing media playback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
